@@ -1,21 +1,8 @@
 <template>
   <div class="container">
     <div>
-      <Logo />
-      <h1 class="title">vue-vibely</h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <nuxt-link class="button--grey" to="/second" >
-          Hello!
-        </nuxt-link>
-      </div>
+     
+       
     </div>
   </div>
 </template>
